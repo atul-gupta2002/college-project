@@ -1,0 +1,42 @@
+*{
+ margin: 0;
+ padding: 0;
+}
+
+
+.nav-links {
+    display: flex;
+    gap: 25px;
+    margin-top: 5px;
+    margin-left:10px;
+}
+.image{
+    background: url('image.jpg') no-repeat center center;
+    background-size: cover;
+    margin-top:15px;
+    height: 650px;
+    margin-right: -100px;
+    margin-left: -350px;
+   
+
+}
+
+.para .para1{
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    font-weight: 100;   
+}
+
+.para .para2{
+    margin-top: 10px;
+    display: flex;
+    padding: 14px;
+    justify-content: center;
+    font-weight: 100;   
+}
+.para .para3{
+    padding: 8px;
+    display: flex;
+    justify-content: center;
+}
